@@ -1,0 +1,53 @@
+/* Recipe module */
+.recipe {
+  width: 47%;
+  color: #cdd6f4;
+  border-radius: 10px;
+  box-shadow: 0px 5px 20px #181825;
+  margin: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+
+  background: #1e1e2e;
+  align-items: center;
+  min-width: 40%;
+}
+
+/* Changes to width for smaller screens */
+@media screen and (max-width: 1333px) {
+  .recipe {
+    width: 80%;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  .recipe {
+    width: 100%;
+  }
+}
+
+/* Title styling */
+.title {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Image styling */
+.image {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+/* Ingredient styling */
+.ingredients {
+  text-align: left;
+  padding: 10px;
+  margin: 20px;
+}
