@@ -1,4 +1,4 @@
-# Recipe Search | Find the Perfect Recipe for Any Food
+# Recipe Search
 
 - View the live website [here!](https://ahs718.github.io/recipe-search/)
 
