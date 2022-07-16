@@ -1,6 +1,6 @@
 # Recipe Search | Find the Perfect Recipe for Any Food
 
-![Example gif](./img/example.gif)
+- View the live website [here!](https://ahs718.github.io/recipe-search/)
 
 - This website finds recipies using search queries from the [Edamam recipe search API](https://www.edamam.com).
 
