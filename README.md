@@ -2,6 +2,8 @@
 
 - View the live website [here!](https://ahs718.github.io/recipe-search/)
 
+![Example Image](example/example.gif)
+
 - This website finds recipies using search queries from the [Edamam recipe search API](https://www.edamam.com).
 
 - This website was built using [React](https://reactjs.org).
